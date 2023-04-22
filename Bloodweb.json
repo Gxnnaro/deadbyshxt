@@ -1,8 +1,8 @@
 {
-    "bloodWebLevelChanged": false,
+    "bloodWebLevelChanged": true,
     "updatedWallets": [],
     "characterName": "",
-    "bloodWebLevel": 50,
+    "bloodWebLevel": 51,
     "prestigeLevel": 8,
     "legacyPrestigeLevel": 0,
     "bloodWebData": {
